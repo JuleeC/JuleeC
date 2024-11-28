@@ -5,15 +5,24 @@
 - 💞️ currently learning databanks & linux arch(hyprland)
 - 😄 Pronouns: he/him
 
+<br></br>
 
-#My Skills!
+
+## 🏆  Skills!
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,arduino,cs,py,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,arduino,cs,py,qt,)](https://skillicons.dev)
 
-#Used Tools!
 
-[![My Skills](https://skillicons.dev/icons?i=obsidian,ubuntu,vscode,windows)](https://skillicons.dev)
+## 🧰 Tools
+
+[![My Skills](https://skillicons.dev/icons?i=obsidian,ubuntu,vscode,windows,arch)](https://skillicons.dev)
+
+
+## Currently learning Tools!
+
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,bash)](https://skillicons.dev)
   
 
 <!---
