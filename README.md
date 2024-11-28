@@ -2,7 +2,7 @@
 
 - 👋 My Name is Jules Hummel
 - 👀 currently studying Biomedical Engineering
-- 💞️ currently learning databanks & linux arch(hyprland)
+- 💞️ learning databanks & linux arch(hyprland)
 - 😄 Pronouns: he/him
   
 
