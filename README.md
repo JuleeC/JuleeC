@@ -1,9 +1,10 @@
-# Hey There! 👋
+# <h1 align = center>Hey There! 👋 </h1>
 
 - 👋 My Name is Jules Hummel
 - 👀 currently studying Biomedical Engineering
 - 💞️ currently learning databanks & linux arch(hyprland)
 - 😄 Pronouns: he/him
+- 
 
 <br></br>
 
