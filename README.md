@@ -4,7 +4,7 @@
 - 👀 currently studying Biomedical Engineering
 - 💞️ currently learning databanks & linux arch(hyprland)
 - 😄 Pronouns: he/him
-- 
+  
 
 <br></br>
 
