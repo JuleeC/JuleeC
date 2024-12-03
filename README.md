@@ -12,7 +12,7 @@
 ## 🏆  Skills!
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,arduino,cs,py,qt,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,cs,py,qt,)](https://skillicons.dev)
 
 
 ## 🧰 Tools
