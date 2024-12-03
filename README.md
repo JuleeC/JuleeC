@@ -3,7 +3,7 @@
 - 👋 My Name is Jules Hummel
 - 👀 currently studying Biomedical Engineering
 - 💞️ learning databanks & trying out ctk
-- 😄 Pronouns: he/him
+- 😄 started coding half a year ago
   
 
 <br></br>
