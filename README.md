@@ -2,7 +2,6 @@
 
 - 👋 My Name is Jules Hummel
 - 👀 currently studying Biomedical Engineering
-- 💞️ learning databanks & trying out ctk
 - 😄 started coding half a year ago
   
 
