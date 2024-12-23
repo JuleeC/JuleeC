@@ -16,13 +16,13 @@
 
 ## 🧰 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=obsidian,ubuntu,vscode,windows,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,git,bash)](https://skillicons.dev)
 
 
 ## 👀 Currently learning
 
 
-[![My Skills](https://skillicons.dev/icons?i=git,nix)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nix)](https://skillicons.dev)
   
 
 <!---
