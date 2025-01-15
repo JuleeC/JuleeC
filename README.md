@@ -16,7 +16,7 @@
 
 ## 🧰 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,git,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,git,bash,arch)](https://skillicons.dev)
 
 
 ## 👀 Currently learning
