@@ -11,12 +11,12 @@
 ## 🏆 Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,cs,py,qt,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,cs,py,qt,md,java)](https://skillicons.dev)
 
 
 ## 🧰 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,git,bash,arch,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,git,bash,arch)](https://skillicons.dev)
 
 
 ## 👀 Currently learning
