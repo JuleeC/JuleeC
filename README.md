@@ -16,16 +16,12 @@
 
 ## 🧰 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,git,bash,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian,vscode,git,bash,arch,java)](https://skillicons.dev)
 
 
 ## 👀 Currently learning
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,nix)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nix)](https://skillicons.dev)
   
 
-<!---
-JuleeC/JuleeC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
