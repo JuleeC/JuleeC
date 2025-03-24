@@ -21,8 +21,8 @@
 
 
 - 👀 currently studying Biomedical Engineering
-- 😄 started coding half a year ago
-- 🦀 learning data structures and algorithms
+- 😄 started coding half a year ago (still dumb)
+- 🦀 doing leetcode rn (why is it so harrddd??)
   
 
 <br></br>
