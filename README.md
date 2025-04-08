@@ -31,7 +31,7 @@
 ## 🏆 Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,cs,py,qt,md,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,cs,py,qt,md,java,dart,flutter)](https://skillicons.dev)
 
 
 ## 🧰 Tools
