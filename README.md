@@ -1,23 +1,17 @@
 # <h1 align = center>Hey There! 👋 </h1>
+<br>
+<h3 align = center>Github Stats🥶</h3>
 
-<details closed>
-<summary>GitHub Stats</summary>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JuleeC&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuleeC&layout=compact&langs_count=8&card_width=480&theme=radical" />
+</a>
 
-<div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-dun-eight-76.vercel.app/api?username=JuleeC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" height="150" />
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-dun-eight-76.vercel.app/api?username=JuleeC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" height="150" />
-        <img align="center" alt="stats graph" src="https://github-readme-stats-dun-eight-76.vercel.app/api?username=JuleeC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" height="150">
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-dun-eight-76.vercel.app/api/top-langs?username=JuleeC&layout=compact&card_width=320&langs_count=5&theme=github_dark" height="150" />
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-dun-eight-76.vercel.app/api/top-langs?username=JuleeC&layout=compact&card_width=320&langs_count=5&theme=github_dark" height="150" />
-        <img align="center" alt="language stats" src="https://github-readme-stats-dun-eight-76.vercel.app/api/top-langs?username=JuleeC&layout=compact&card_width=320&langs_count=5&theme=github_dark" height="150">
-    </picture>
-</div>
-</details>
-
-
+<br>
+<br>
+<br>
 
 
 - 👀 currently studying Biomedical Engineering
