@@ -6,7 +6,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JuleeC&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuleeC&layout=compact&langs_count=8&card_width=380&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuleeC&layout=compact&langs_count=8&card_width=280&theme=radical" />
 </a>
 
 <br>
