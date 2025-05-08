@@ -1,12 +1,13 @@
 # <h1 align = center>Hey There! 👋 </h1>
 <br>
-<h3 align = center>Github Stats🥶</h3>
 
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuleeC&layout=compact&langs_count=8&theme=radical" />
-</a>
-
+<div align = center>
+  
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuleeC&layout=compact&langs_count=8&card_width=300&theme=radical" />
+  </a>
+</div>
 <br>
 <br>
 <br>
