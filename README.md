@@ -25,12 +25,12 @@
 ## 🏆 Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,cs,py,qt,md,java,dart,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,cs,c,py,md,java,dart,flutter)](https://skillicons.dev)
 
 
 ## 🧰 Tools
 
-[![My Tools](https://skillicons.dev/icons?i=obsidian,vscode,git,bash,nix)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=obsidian,vscode,git,bash,arch,neovim)](https://skillicons.dev)
 
 
 
