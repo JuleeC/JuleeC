@@ -16,7 +16,7 @@
 - 👀 currently studying Biomedical Engineering
 - 😄 started coding early 2024 (still dumb)
 - 🦀 doing leetcode rn (why is it so harrddd??)
-- ✨ learning flutter parallel
+- ✨ creating my own dotfiles in arch right now (looks shit)
   
 
 <br></br>
