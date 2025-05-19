@@ -22,10 +22,17 @@
 <br></br>
 
 
-## 🏆 Skills
+## 🏆 Languages
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,cs,c,py,md,java,dart,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,c,py,java,dart)](https://skillicons.dev)
+
+## 🖥️ UI Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,md,flutter)](https://skillicons.dev)
+
+
+
 
 
 ## 🧰 Tools
