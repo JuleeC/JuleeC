@@ -16,7 +16,8 @@
 - 👀 currently studying Biomedical Engineering
 - 😄 started coding early 2024 (still dumb)
 - 🦀 doing leetcode rn (why is it so harrddd??)
-- ✨ ricing arch (looks shit)((
+- ✨ ricing arch (looks shit)
+- 🤑 want to learn go 
   
 
 <br></br>
