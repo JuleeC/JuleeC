@@ -18,11 +18,11 @@
 ## 🏆 Languages
 
 
-[![My Skills](https://skillicons.dev/icons?i=cs,c,py,java,dart,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,c,py,java,dart,lua,go)](https://skillicons.dev)
 
 ## 🖥️ UI Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,md,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,md,flutter,net)](https://skillicons.dev)
 
 
 
