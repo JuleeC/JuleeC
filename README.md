@@ -6,16 +6,17 @@
 
 
 - 👀 currently studying Biomedical Engineering
-- 😄 started coding early 2024 (still dumb)
-- 🦀 doing leetcode rn (why is it so harrddd??)
-- ✨ ricing arch (looks shit)
+- 😄 started coding early 2024 
+- 🦀 did 100 leetcode questions, feeling still dumb
+- ✨ ricing arch for za best workflow
+- 🖥️ learning rust
 
-  
 
 <br></br>
 
 
 ## 🏆 Languages
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,dart,lua,go,cs,c)](https://skillicons.dev)
