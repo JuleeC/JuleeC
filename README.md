@@ -19,11 +19,14 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,dart,lua,go,cs,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,dart,lua,go)](https://skillicons.dev)
+
+## ✨ Learned in school
+[![My Skills](https://skillicons.dev/icons?i=cs,c,arduino,net)](https://skillicons.dev)
 
 ## 🖥️ UI Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,md,flutter,net)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,md,flutter)](https://skillicons.dev)
 
 
 
