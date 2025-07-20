@@ -19,7 +19,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,dart,lua,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,dart,lua,go,rust)](https://skillicons.dev)
 
 ## ✨ Learned in school
 [![My Skills](https://skillicons.dev/icons?i=cs,c,arduino,net)](https://skillicons.dev)
