@@ -9,7 +9,6 @@
 - 😄 started coding early 2024 
 - 🦀 did 100 leetcode questions, feeling still dumb
 - ✨ ricing arch for za best workflow
-- 🖥️ learning rust
 
 
 <br></br>
