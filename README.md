@@ -7,8 +7,8 @@
 
 - 👀 currently studying Biomedical Engineering
 - 😄 started coding early 2024 
-- 🦀 did 100 leetcode questions, feeling still dumb
-- ✨ ricing arch for za best workflow
+- 🦀 100 leetcode questions
+- ✨ i use arch btw
 
 
 <br></br>
